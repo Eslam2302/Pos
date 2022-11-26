@@ -1,0 +1,19 @@
+/* nav bar */
+
+.messages-menu>a, .notifications-menu>a, .tasks-menu>a {
+    margin-right:10px;
+    padding: 6px;
+}
+
+.messages-menu .label , .notifications-menu .label, .tasks-menu .label {
+    margin:5px 2px
+}
+
+.messages-menu .dropdown-menu , .notifications-menu .dropdown-menu,.tasks-menu .dropdown-menu {
+    margin:4px 10px 0 0 !important;
+
+}
+
+.user-menu a img {
+    margin: -2px 5px 0 0 !important;
+}

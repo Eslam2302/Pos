@@ -1,0 +1,10 @@
+
+.pull-left{
+	float: right !important;
+}
+
+.pull-right{
+	float: left !important;
+}
+
+.mar {margin:0 30px !important;}
